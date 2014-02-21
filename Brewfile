@@ -39,6 +39,7 @@ cask install skitch || true
 cask install skydrive || true
 cask install sourcetree
 cask install github
+cask install coteditor
 
 # Remove outdated versions
 cleanup
