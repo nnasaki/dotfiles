@@ -41,6 +41,7 @@ cask install sourcetree
 cask install github
 cask install coteditor
 cask install sophos-antivirus
+cask install sparrow
 
 # Remove outdated versions
 cleanup
