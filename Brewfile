@@ -26,6 +26,7 @@ install imagemagick
 install brew-cask
 install packer
 install hub
+install corkscrew
 
 # .dmg
 cask install google-chrome
