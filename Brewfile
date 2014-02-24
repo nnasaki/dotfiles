@@ -10,7 +10,6 @@ tap phinze/homebrew-cask
 tap homebrew/binary
 
 # Packages
-
 install zsh
 install git
 install gist
@@ -41,6 +40,7 @@ cask install skydrive || true
 cask install sourcetree
 cask install github
 cask install coteditor
+cask install sophos-antivirus
 
 # Remove outdated versions
 cleanup
