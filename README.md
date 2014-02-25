@@ -35,3 +35,15 @@ $ git clone git://github.com/robbyrussell/oh-my-zsh.git ‾/.oh-my-zsh
 ```sh
 $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go/install)"
 ```
+
+### Install AppStore Apps
+
+You need "Xcode Comanndline Tools".
+
+### Install Brewfile
+ 
+```sh
+$homesick cd
+$brew bundle
+$brew cask alfred link
+```
