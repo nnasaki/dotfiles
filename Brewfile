@@ -42,6 +42,11 @@ cask install github
 cask install coteditor
 cask install sophos-antivirus
 cask install sparrow
+cask install mono-mre
+cask install mono-mdk
+cask install xamarin-studio
+cask install lastpass-universal
+cask install movist
 
 # Remove outdated versions
 cleanup
