@@ -26,6 +26,7 @@ install brew-cask
 install packer
 install hub
 install corkscrew
+install android-sdk
 
 # .dmg
 cask install google-chrome
@@ -47,6 +48,7 @@ cask install mono-mdk
 cask install xamarin-studio
 cask install lastpass-universal
 cask install movist
+cask install java
 
 # Remove outdated versions
 cleanup
