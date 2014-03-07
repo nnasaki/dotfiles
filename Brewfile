@@ -50,6 +50,7 @@ cask install sparrow
 cask install lastpass-universal
 cask install movist
 cask install java
+cask install synergy
 
 # Remove outdated versions
 cleanup
