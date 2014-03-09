@@ -43,7 +43,12 @@ You need "Xcode Comanndline Tools".
 ### Install Brewfile
  
 ```sh
-$homesick cd
-$brew bundle
-$brew cask alfred link
+$ homesick cd
+$ brew bundle
+$ brew cask alfred link
 ```
+### 手動インストール
+以下は手動インストールする
+
+- Xamarin
+- ATOK
