@@ -27,7 +27,7 @@ Defaults        env_keep += "http_proxy https_proxy no_proxy"
 ### Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ```sh
-$ git clone git://github.com/robbyrussell/oh-my-zsh.git ‾/.oh-my-zsh
+$ git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 ```
 
 ### Install [Homebrew](http://brew.sh/)
