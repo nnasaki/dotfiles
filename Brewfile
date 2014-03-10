@@ -41,8 +41,7 @@ cask install skydrive || true
 cask install sourcetree
 cask install github
 cask install coteditor
-cask install sophos-antivirus
-cask install sparrow
+cask install sophos-anti-virus-home-edition
 # Xamarin は統合インストーラーを使う
 # cask install mono-mre
 # cask install mono-mdk
@@ -51,6 +50,7 @@ cask install lastpass-universal
 cask install movist
 cask install java
 cask install synergy
+cask install genymotion
 
 # Remove outdated versions
 cleanup
