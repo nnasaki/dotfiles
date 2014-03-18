@@ -53,6 +53,7 @@ cask install movist
 cask install java
 cask install synergy
 cask install genymotion
+cask install sequel-pro
 
 # Remove outdated versions
 cleanup
