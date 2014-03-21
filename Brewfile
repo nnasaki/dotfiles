@@ -51,6 +51,7 @@ cask install movist
 cask install java
 cask install synergy
 cask install genymotion
+cask install kobito
 
 # Remove outdated versions
 cleanup
