@@ -47,6 +47,16 @@ $ homesick cd
 $ brew bundle
 $ brew cask alfred link
 ```
+
+### git
+.gitconfig を共有すればいいと思うけどとりあえず保留で
+
+```sh
+$ git config --global credential.helper osxkeychain
+```
+
+see also https://help.github.com/articles/set-up-git
+
 ### 手動インストール
 以下は手動インストールする
 

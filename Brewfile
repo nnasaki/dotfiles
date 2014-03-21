@@ -8,6 +8,7 @@ upgrade
 tap homebrew/versions
 tap phinze/homebrew-cask
 tap homebrew/binary
+tap sanemat/font
 
 # Packages
 install zsh
@@ -27,6 +28,7 @@ install packer
 install hub
 install corkscrew
 install android-sdk
+install ricty
 
 # .dmg
 cask install google-chrome
@@ -41,7 +43,7 @@ cask install skydrive || true
 cask install sourcetree
 cask install github
 cask install coteditor
-cask install sophos-anti-virus-home-edition
+cask install sophos-anti-virus-home-edition || true
 # Xamarin は統合インストーラーを使う
 # cask install mono-mre
 # cask install mono-mdk
@@ -52,6 +54,7 @@ cask install java
 cask install synergy
 cask install genymotion
 cask install kobito
+cask install sequel-pro
 
 # Remove outdated versions
 cleanup
