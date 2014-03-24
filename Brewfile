@@ -53,7 +53,7 @@ cask install movist
 cask install java
 cask install synergy
 cask install genymotion
-cask install kobito
+cask install kobito || true
 cask install sequel-pro
 
 # Remove outdated versions
