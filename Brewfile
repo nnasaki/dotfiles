@@ -55,6 +55,7 @@ cask install synergy
 cask install genymotion
 cask install kobito || true
 cask install sequel-pro
+cask install haroopad
 
 # Remove outdated versions
 cleanup
