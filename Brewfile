@@ -34,12 +34,9 @@ install ricty
 cask install google-chrome
 cask install bettertouchtool
 cask install alfred
-cask install evernote || true
 cask install virtualbox
 cask install vagrant
 cask install day-o
-cask install skitch || true
-cask install skydrive || true
 cask install sourcetree
 cask install github
 cask install coteditor
