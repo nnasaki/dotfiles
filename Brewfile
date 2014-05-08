@@ -6,7 +6,7 @@ upgrade
 
 # Add Repository
 tap homebrew/versions
-tap phinze/homebrew-cask
+tap caskroom/cask
 tap homebrew/binary
 tap sanemat/font
 
@@ -48,7 +48,6 @@ cask install sophos-anti-virus-home-edition || true
 cask install lastpass-universal
 cask install movist
 cask install java
-cask install synergy
 cask install genymotion
 cask install kobito || true
 cask install sequel-pro
