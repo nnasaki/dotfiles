@@ -52,6 +52,8 @@ cask install synergy
 cask install genymotion
 cask install kobito || true
 cask install sequel-pro
+cask install skype
+cask install filezilla
 
 # Remove outdated versions
 cleanup
