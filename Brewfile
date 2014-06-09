@@ -53,6 +53,7 @@ cask install kobito || true
 cask install sequel-pro
 cask install skype
 cask install filezilla
+cask install intellij-idea
 
 # Remove outdated versions
 cleanup
